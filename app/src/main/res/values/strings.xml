@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">AuctionApp</string>
+    <string name="text.username">Username</string>
+    <string name="text.password">Password</string>
+    <string name="text_username_empty_error">Username cannot be empty</string>
+    <string name="text_password_empty_error">Password cannot be empty</string>
+    <string name="text_full_name_empty_error">Full name cannot be empty</string>
+    <string name="text_registration_successful_message">Registration successful</string>
+    <string name="text.full_name">Full Name</string>
+    <string name="text.register">Register</string>
+    <string name="text.login">Login</string>
+    <string name="text_succesfully_logged_in">Successfully logged in</string>
+    <string name="text.expiry_date">Expiry date(YYYY/MM/dd HH:mm:ss)-</string>
+    <string name="text.auction_item_desc">Auction item desc</string>
+    <string name="text.auction_item_name">Item name</string>
+    <string name="text.add_auction_item">Add Item</string>
+    <string name="text_invalid_name">Not a valid name</string>
+    <string name="text_auction_item_successfully_added">Auction item successfully added</string>
+    <string name="text.bid_amount">Bid amount</string>
+    <string name="text.bid">Bid</string>
+    <string name="text_not_a_valid_amount">Not a valid amount</string>
+    <string name="text_bid_successfully_added">Bid successfully added</string>
+    <string name="text_not_a_valid_date_time">Not a valid date time</string>
+    <string name="text.logout">Logout</string>
+    <string name="text_expiry_date_value">Expires on : %1$s </string>
+</resources>
